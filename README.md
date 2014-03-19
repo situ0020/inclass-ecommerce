@@ -9,4 +9,4 @@ A demonstration repo for in class ecommerce website design system.
 
 Code licensed under the [MIT license](LICENSE).
 
-Design, imagery, and text licensed under the [CC](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Design, imagery, and text licensed under the [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
